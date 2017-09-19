@@ -24,7 +24,7 @@ help(pushups)
 
 Among other things, the students recorded the type of position a player had on the team (either line or skill), and also the number of push-ups each player could perform in a two-minute period.
 
-Line players are on the offensive or defensive line.  They need to be a certain kind of speed, but they must also be quite big and strong.  Skill players do a lot of runninga and catching:  they are the quarterback, running backs, receivers, etc.
+Line players are on the offensive or defensive line.  They need to be a certain kind of speed, but they must also be quite big and strong.  Skill players do a lot of running and catching:  they are the quarterback, running backs, receivers, etc.
 
 Our Research Question is:
 
@@ -45,7 +45,12 @@ Our Research Question is:
 
 ## Graphical Results
 <!--Your graph should have a good title, and axes should be labled as needed.  Discuss your graphical results, showing how they answer the research question.  Use specific features of the graph in your discussion.!-->
+```{r}
+myex <- ggplot(pushups,aes(x=position,y=weight))
+myex + geom_boxplot()
+```
 
+The plot reveals that line players all weigh more than all but the heaviest skill player.
 
 ## Numerical Results
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
