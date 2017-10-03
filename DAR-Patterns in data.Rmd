@@ -58,3 +58,4 @@ Our Research Question is:
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
 
+In conclusion, the line players averaged less push ups than the skill players. The line and skill players averaged at 17 and 50 pushups respectively. The line players also weighed a lot more than the skill players (see graphical data). Based on the data, the null hypothesis is false, because the p-value is low at approximatley 1.71e-05. Therefore, we observe that the average amount of pushups performed by the skill and line players are different. 
