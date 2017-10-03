@@ -56,6 +56,9 @@ The plot reveals that line players all weigh more than all but the heaviest skil
 ## Numerical Results
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(pushups~position,data=pushups)
+```
 
 
 # Inferential Results
