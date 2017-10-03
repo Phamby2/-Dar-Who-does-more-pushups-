@@ -60,7 +60,7 @@ We want to run a stats test of difference of means on weight between the skilled
 t.test(weight~position,data=pushups)
 ```
 
-The p-value was so low that we conclude that we are going to reject the null hypothesis. 
+The p-value was so low that we conclude that we are going to reject the null hypothesis.The p-value was estimated to be at roughly 1.731e-05 which, is very low. Therefore, the average pushups between the line and skill players are not the same. 
 
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
