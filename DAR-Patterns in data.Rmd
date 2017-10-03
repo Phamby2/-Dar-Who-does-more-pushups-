@@ -35,7 +35,7 @@ Our Research Question is:
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
 
-We are going to run a varaible analysis test and we are also going to use a lattice barchart.
+We are going to run a varaible analysis test and we are also going to use a boxplot, in order to illustrate the data. Once we create the boxplot, were are going to construct a violin plot, in order to see the percentile of weight in corespondence to pushups. Finally, in order to see if our null hypothesis is accurate, we are going to run a t-test and observe what our p-value is.  
 
 
 
